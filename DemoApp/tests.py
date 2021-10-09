@@ -8,5 +8,5 @@ class DemoAppUnitTests(TestCase):
 		self.assertTrue(isTrue)
 
 	def test_false_is_false(self):
-		isFalse = True
+		isFalse = False
 		self.assertFalse(isFalse)
