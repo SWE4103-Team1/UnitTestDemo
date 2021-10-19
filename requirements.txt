@@ -2,7 +2,9 @@ certifi==2021.5.30
 charset-normalizer==2.0.6
 docopt==0.6.2
 docutils==0.14
+dj-database-url==0.5.0
 Django==2.2.3
+django-crispy-forms==1.7.2
 idna==3.2
 lockfile==0.11.0
 pipreqs==0.4.10
